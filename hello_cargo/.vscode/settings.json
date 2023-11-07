@@ -1,0 +1,11 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./hello_world_lib/Cargo.toml",
+        "./hello_world_lib/Cargo.toml",
+        "./hello_world_lib/Cargo.toml",
+        "./hello_world_lib/Cargo.toml",
+        "./hello_world_lib/Cargo.toml",
+        "./hello_world_lib/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}

@@ -1,0 +1,1 @@
+/Users/iseoluwaariyibi/Desktop/rust-practice/hello_cargo/target/debug/hello_cargo: /Users/iseoluwaariyibi/Desktop/rust-practice/hello_cargo/hello_world_lib/src/lib.rs /Users/iseoluwaariyibi/Desktop/rust-practice/hello_cargo/src/greetings.rs /Users/iseoluwaariyibi/Desktop/rust-practice/hello_cargo/src/main.rs
