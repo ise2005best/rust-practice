@@ -22,12 +22,18 @@ use greetings::default_greeting;
 use how_you_hold_data_for_operations:: primitives;
 use primitives::scalar;
 use scalar::scalar_literals;
-extern crate hello_world_lib;
+
+use how_you_hold_data_for_operations::derived;
+// extern crate hello_world_lib;
 
 fn main(){
     // let (mutable) =  scalar_literals();
     println!("Hello World!");
-    println!("{}", default_greeting());
-    println!("{}", hello_world_lib:: greeting_from_lib());
-    println!("{}", scalar_literals);
+//     println!("{}", default_greeting());
+//    scalar_literals();
+//    primitives::compound::main();
+//    primitives::literals::main();
+//    primitives::arrays::main();
+   derived::struct_practice::main();
+   derived::struct_practice::enums();
 }

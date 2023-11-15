@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./hello_cargo/Cargo.toml",
+        "./hello_cargo/Cargo.toml",
+        "./hello_cargo/Cargo.toml",
+        "./hello_cargo/Cargo.toml"
+    ]
+}

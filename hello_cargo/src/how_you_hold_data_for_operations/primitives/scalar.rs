@@ -15,7 +15,7 @@ pub fn scalar_literals (){
     let mut mutable = 12;
     mutable = 33;
 
-    a_float;
+    println!("{} {} {} {}", mutable, default_float, inferred_type, logical);
     // mutable = true;
     // println!("{} {} {} {}", {mutable}, {inferred_type}, {an_integer}, {default_integer});
 
