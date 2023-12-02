@@ -1,3 +1,3 @@
 pub mod user_defined;
-pub mod struct_practice;
-
+pub mod assignment;
+pub mod functions;
